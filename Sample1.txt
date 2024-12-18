@@ -1,3 +1,4 @@
 <P> This is Sample File <P>
 <P> use (Checkbox) <P>
 <P> use (Drop-Down) <P>
+use multiselect
