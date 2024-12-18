@@ -1,10 +1,3 @@
 <P> This is Sample File <P>
-<<<<<<< HEAD
-<P> use (Dropdown Button) <P>
-=======
-<<<<<<< HEAD
 <P> use (Checkbox) <P>
-=======
 <P> use (Drop-Down) <P>
->>>>>>> 3144f6aa0952dc253c1e7c5f160095148d51f310
->>>>>>> main
