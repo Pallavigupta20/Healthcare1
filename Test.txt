@@ -1,2 +1,3 @@
 Hi this is the text File
 git command
+use git repository
